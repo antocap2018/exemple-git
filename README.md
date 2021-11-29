@@ -1,2 +1,1 @@
-#Mon premier dépôt !
-Une modification.
+Initialisation du README
